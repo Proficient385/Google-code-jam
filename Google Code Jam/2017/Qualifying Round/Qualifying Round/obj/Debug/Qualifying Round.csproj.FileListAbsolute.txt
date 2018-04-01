@@ -1,0 +1,7 @@
+J:\Competitions\Google Code Jam\2017\Qualifying Round\Qualifying Round\bin\Debug\Qualifying Round.exe.config
+J:\Competitions\Google Code Jam\2017\Qualifying Round\Qualifying Round\bin\Debug\Qualifying Round.exe
+J:\Competitions\Google Code Jam\2017\Qualifying Round\Qualifying Round\bin\Debug\Qualifying Round.pdb
+J:\Competitions\Google Code Jam\2017\Qualifying Round\Qualifying Round\obj\Debug\Qualifying Round.csprojResolveAssemblyReference.cache
+J:\Competitions\Google Code Jam\2017\Qualifying Round\Qualifying Round\obj\Debug\Qualifying Round.csproj.CoreCompileInputs.cache
+J:\Competitions\Google Code Jam\2017\Qualifying Round\Qualifying Round\obj\Debug\Qualifying Round.exe
+J:\Competitions\Google Code Jam\2017\Qualifying Round\Qualifying Round\obj\Debug\Qualifying Round.pdb
